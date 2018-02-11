@@ -1,0 +1,25 @@
+body{
+	background-color: #455A64
+}
+#header{
+	font-size: 22px;
+	color: #21F6F3;
+}
+
+#big_header{
+	font-size: 35px;
+	color: #DDD	
+}
+
+#list_item{
+	color :#DDD;
+	font-size: 18px;
+}
+#simple{
+	color :#FFF;
+
+}
+
+a{
+	color :#D50000;
+}
